@@ -1,0 +1,4 @@
+../Core/Src/elevator.c:16:6:set_rpm	16	static
+../Core/Src/elevator.c:33:6:stop_motor	4	static
+../Core/Src/elevator.c:41:6:stepmotor_main	8	static
+../Core/Src/elevator.c:137:6:stepmotor_drive	16	static

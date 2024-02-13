@@ -1,0 +1,6 @@
+i2c_lcd.c:22:6:i2c_lcd_main	1
+i2c_lcd.c:51:6:lcd_command	2
+i2c_lcd.c:70:6:lcd_data	2
+i2c_lcd.c:88:6:i2c_lcd_init	1
+i2c_lcd.c:101:6:lcd_string	2
+i2c_lcd.c:110:6:move_cursor	1

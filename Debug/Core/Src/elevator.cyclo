@@ -1,0 +1,4 @@
+elevator.c:16:6:set_rpm	1
+elevator.c:33:6:stop_motor	1
+elevator.c:41:6:stepmotor_main	13
+elevator.c:137:6:stepmotor_drive	13
